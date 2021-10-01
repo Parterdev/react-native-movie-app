@@ -1,0 +1,2 @@
+curl -H "Authorization: xxxxxxxxxxxxxxx" \
+  "https://api.themoviedb.org/3/movie/5/credits?api_key=xxxxxxxxxxxxxxx&language=es-ES"
