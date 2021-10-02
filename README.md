@@ -2,6 +2,8 @@
 
 This project was created with [React Native CLI](https://reactnative.dev/) and [TypeScript](https://www.typescriptlang.org/) template.
 
+![MovieApp](https://github.com/Parterdev/react-native-movie-app/blob/master/movieApp.gif)
+
 ## Description
 This project is a new practical item of my mobile app series that made with:
  - react native v0.65.1
